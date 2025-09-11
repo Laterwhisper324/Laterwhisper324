@@ -1,4 +1,4 @@
-# 👋 Olá, mundo!
+# 👋 Hello, World!
 
 ## Eu sou Marco Tulio  
 
