@@ -47,8 +47,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Redes%20de%20Computadores-Intermediário-009688?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes de Computadores - Intermediário" />
   <img src="https://img.shields.io/badge/Linux-Intermediário-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux - Intermediário" />
-  <img src="https://img.shields.io/badge/Git-Intermediário-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git - Intermediário" />
-  <img src="https://img.shields.io/badge/GitHub-Intermediário-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Intermediário" />
+  <img src="https://img.shields.io/badge/Git-Intermediário-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git - Excepcional" />
+  <img src="https://img.shields.io/badge/GitHub-Intermediário-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Excepcional" />
   <img src="https://img.shields.io/badge/WordPress-Intermediário-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress - Intermediário" />
 </p>
 
