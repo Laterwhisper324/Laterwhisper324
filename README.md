@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou o Marco Tulio 👋</h1>
+<h1 align="center">Olá, eu sou o Marco Tulio </h1>
 
 <p align="center">
   <strong>Desenvolvedor em formação focado em Front-End & Tecnologias Web</strong>
@@ -71,7 +71,7 @@ print(saudacao("GitHub"))
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Laterwhisper324&theme=radical" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Laterwhisper324&theme=dark&border_radius=2" alt="GitHub Streak" /></a>
 </p>
 
 ---
