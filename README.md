@@ -1,4 +1,8 @@
 
+
+
+
+
 <h1 align="center">Olá, eu sou o Marco Tulio </h1>
 
 <p align="center">
@@ -80,7 +84,9 @@ print(saudacao("GitHub"))
   <em>✨ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!</em>
 </p>
 
----                                                                     
-                                                                                
-                         
+---   
+
+<img width="2080" height="664" alt="cortex exe" src="https://github.com/user-attachments/assets/22414dcf-11bc-43d2-a462-12f32b143a1e" />  
+
+---                         
 
