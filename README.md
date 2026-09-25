@@ -1,5 +1,5 @@
 
-<h1 align="center" style = "background-color: red" >Olá, eu sou o Marco Tulio 👋</h1>
+<h1 align="center">Olá, eu sou o Marco Tulio 👋</h1>
 
 <p align="center">
   <strong>Desenvolvedor em formação focado em Front-End & Tecnologias Web</strong>
@@ -12,6 +12,11 @@
   <a href="https://linkedin.com/in/seu-perfil">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+---
+<p>
+ <img src="https://i.pinimg.com/1200x/34/8e/2c/348e2c524ecaafa6f235e7256bc80a3e.jpg"  />
 </p>
 
 ---
@@ -66,3 +71,5 @@
 <p align="center">
   <em>✨ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução!</em>
 </p>
+
+
