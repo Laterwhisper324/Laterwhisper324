@@ -1,4 +1,5 @@
-<h1 align="center">Olá, eu sou o Marco Tulio 👋</h1>
+
+<h1 align="center" style = "background-color: red" >Olá, eu sou o Marco Tulio 👋</h1>
 
 <p align="center">
   <strong>Desenvolvedor em formação focado em Front-End & Tecnologias Web</strong>
